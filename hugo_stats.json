@@ -21,7 +21,6 @@
       "head",
       "header",
       "html",
-      "i",
       "iframe",
       "img",
       "input",
@@ -120,8 +119,6 @@
       "dark:text-zinc-400",
       "dark:text-zinc-500",
       "duration-500",
-      "fa-heart",
-      "fas",
       "featured-image",
       "featured-image-wrapper",
       "fill-current",
@@ -390,21 +387,15 @@
     "ids": [
       "Layer_1",
       "about-the-meeting",
-      "early-career",
-      "early-career-researcher-workshop",
       "hide-button",
       "invited-speakers-and-instructors",
-      "invited-speakers-and-workshop-instructors",
       "moon",
       "nav-menu",
       "nav-toggle",
       "organisation",
       "page-bg",
       "places-to-stay",
-      "plenary-speaker",
-      "plenary-speaker-1",
       "program",
-      "program--abstracts",
       "registration-and-abstract-submission",
       "search",
       "search_toggle",
@@ -419,8 +410,7 @@
       "sponsors",
       "sun",
       "top",
-      "venue",
-      "venues--travel"
+      "venue"
     ]
   }
 }

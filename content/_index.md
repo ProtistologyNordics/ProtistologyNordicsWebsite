@@ -24,7 +24,7 @@ sections:
       background:
         image:
           # Add your image background to `assets/media/`.
-          filename: Diatoms.jpg
+          filename: Diatoms.jpeg
           filters:
             brightness: 0.5
 ---
