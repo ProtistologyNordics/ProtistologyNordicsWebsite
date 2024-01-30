@@ -28,7 +28,7 @@ This meeting stems from the prior Protistology Nordics meetings held in Oslo (20
 
 ## Registration and Abstract Submission
 
-Register [**here**](https://forms.gle/1zS2paYNHe23u7159)!
+Register [**here**](https://forms.gle/xpvsNcFedjaUwU9X9)!
 
 Registration and Abstract Submission Deadline: 1 April, 2024  
 Selected abstracts/Participants Will Be Notified By: 15 April, 2024  
@@ -106,7 +106,7 @@ Nearby hotels and hostels can be found [here](https://www.booking.com/searchresu
 
 <div style="text-align: right"><img src="e_hehenberger.jpg" width="150" /></div>
 
-*Plenary speaker*
+*Plenary speaker*  
 Elisabeth Hehenberger   
 Institute of Parasitology   
 Biology Centre CAS   
