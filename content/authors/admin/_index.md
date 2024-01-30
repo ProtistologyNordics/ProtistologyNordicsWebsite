@@ -25,7 +25,7 @@ organizations:
     url: https://www.slu.se/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include diversity, evolution, and environmental sequencing of protists.
+bio: My research interests include studying protist diversity and evolution using environmental sequencing.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
