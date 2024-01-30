@@ -63,7 +63,7 @@ Nearby hotels and hostels can be found [here](https://www.booking.com/searchresu
 **2 May 2024**   
 *Workshop for Early Career Researchers, and Pub night*   
 
-<details>
+<details open>
   <summary>Preliminary schedule</i></summary>
 
 | Time               | Event                                                                            |
@@ -77,14 +77,14 @@ Nearby hotels and hostels can be found [here](https://www.booking.com/searchresu
 | 14:30-15:00        | Fika (coffee + snacks)                                                           |
 | 15:00-17:00        | A presentation of infrastructure in Sweden for genomics, proteomics, and imaging |
 | 17:00-18:00        | Free time                                                                        |
-| 18:00 -            | Pub night (William'sPub)                                                         |
+| 18:00 -            | Pub night (William's Pub)                                                        |
 
 </details>
 
 **3 May 2024**   
 *Symposium on Protist Cell Biology, Ecology, and Evolution*
 
-<details>
+<details open>
   <summary>Preliminary schedule</i></summary> 
 
 | Time               | Event                                           |
