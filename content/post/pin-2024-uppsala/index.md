@@ -137,11 +137,12 @@ Spain
 <span style="color:LightSeaGreen">Mahwash Jamy</span>. Swedish University of Agricultural Sciences  
 <span style="color:LightSeaGreen">Jennah Dharamshi</span>. Uppsala University  
 <span style="color:LightSeaGreen">Micah Dunthorn</span>. University of Oslo    
+<span style="color:LightSeaGreen">Anabella Aguilera</span>. SciLifeLab Planetary Biology
 <span style="color:LightSeaGreen">Fabien Burki</span>. Uppsala University    
 <span style="color:LightSeaGreen">Courtney Stairs</span>. Lund University  
 
 ## Sponsors
 
-The event has been supported by UiO:Life Science and SciLifeLab Planetary Biology.
+The event has been supported by [SciLifeLab Planetary Biology](https://www.scilifelab.se/capabilities/planetary-biology/), and UiO:Life Science.
 
 ![](sponsors.png)  
