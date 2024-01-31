@@ -28,10 +28,10 @@ This meeting stems from the prior Protistology Nordics meetings held in Oslo (20
 
 ## Registration and Abstract Submission
 
-Register [**here**](https://forms.gle/xpvsNcFedjaUwU9X9)!
+**Register [HERE](https://forms.gle/fEGVEzsnXeyvSkaP6)!**
 
-Registration and Abstract Submission Deadline: 1 April, 2024  
-Selected abstracts/Participants Will Be Notified By: 15 April, 2024  
+Registration and Abstract Submission Deadline: 25 March, 2024  
+Selected abstracts/Participants Will Be Notified By: 2 April, 2024  
 
 ## Venue  
 
@@ -58,10 +58,13 @@ William's Pub
 
 Nearby hotels and hostels can be found [here](https://www.booking.com/searchresults.en-gb.html?ss=Uppsala&ssne=Uppsala&ssne_untouched=Uppsala&label=gen173nr-1FCAEoggI46AdIM1gEaKoBiAEBmAEJuAEHyAEN2AEB6AEB-AENiAIBqAIDuAK3nKOQBsACAdICJDI3ZDJjZDhjLTAyZWMtNDlkNi04YzQwLWMyMWQ1ZWZlZTA3YdgCBuACAQ&sid=1cb6a04bacbea7250c44b05f574dc713&aid=304142&lang=en-gb&sb=1&src_elem=sb&src=index&dest_id=-2532413&dest_type=city&checkin=2024-05-01&checkout=2024-05-03&group_adults=1&no_rooms=1&group_children=0).
 
+Please note that we are *not* providing accommodations to the meeting.  
+
 ## Program 
 
 **2 May 2024**   
 *Workshop for Early Career Researchers, and Pub night*   
+A workshop for Masters students, PhD students, and postdocs!  
 
 <details open>
   <summary>Preliminary schedule</i></summary>
