@@ -65,6 +65,7 @@ Please note that we are *not* providing accommodations to the meeting.
 **2 May 2024**   
 *Workshop for Early Career Researchers, and Pub night*   
 A workshop for Masters students, PhD students, and postdocs!  
+All researchers are welcome to join after the student introductions (i.e. at 10:30 am)! 
 
 <details open>
   <summary>Preliminary schedule</i></summary>
@@ -72,7 +73,7 @@ A workshop for Masters students, PhD students, and postdocs!
 | Time               | Event                                                                            |
 |--------------------|----------------------------------------------------------------------------------|
 | 9:00-9:30          | Registration                                                                     |
-| 9:30-10:30         | Introductions                                                                    |
+| 9:30-10:30         | Introductions by students/early-career researchers                                                                    |
 | 10:30-11:00        | Fika (coffee + snacks)                                                           |
 | 11:00-12:00        | Talk by Ramiro Logares on population genomics of protists using metagenomics     |
 | 12:00-13:00        | Lunch                                                                            |
