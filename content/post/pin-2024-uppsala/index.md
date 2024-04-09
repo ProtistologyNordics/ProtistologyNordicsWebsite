@@ -93,16 +93,17 @@ All researchers are welcome to join after the student introductions (i.e. at 10:
 
 | Time               | Event                                           |
 |--------------------|-------------------------------------------------|
-| 8:30-9:00          | Registration                                    |
-| 9:00-9:15          | Welcome address                                 |
-| 9:15-10:00         | Plenary talk by Elisabeth Hehenberger           |
-| 10:00-10:30        | Fika (coffee + snacks)                          |
-| 10:30-12:00        | Contributed talks                               |
+| 8:30-8:50          | Registration                                    |
+| 8:50-9:00          | Welcome address                                 |
+| 9:00-9:45          | Plenary talk by Elisabeth Hehenberger           |
+| 9:45-10:15         | Fika (coffee + snacks)                          |
+| 10:15-12:00        | Contributed talks                               |
 | 12:00-13:00        | Lunch                                           |
-| 13:00-14:30        | Contributed talks                               |
-| 14:30-15:00        | Fika (coffee + snacks)                          |
-| 15:00-16:30        | Contributed talks                               |
-| 16:45-17:00        | Concluding remarks and best student talk prizes |
+| 13:00-15:00        | Contributed talks                               |
+| 15:00-15:30        | Fika (coffee + snacks)                          |
+| 15:30-17:35        | Contributed talks                               |
+| 17:35-17:45        | Short break                                     |
+| 17:45-18:00        | Concluding remarks and best student talks       |
 
 </details>
 
