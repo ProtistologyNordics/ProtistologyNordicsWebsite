@@ -15,6 +15,8 @@ tags:
   - Events
 ---
 
+**Preliminary meeting programme available [here](Programme_PiN_draft.pdf)!**
+
 ## About the meeting
 
 **3rd Protistology Nordics Meeting | Uppsala**  
@@ -33,19 +35,21 @@ This meeting stems from the prior Protistology Nordics meetings held in Oslo (20
 Registration and Abstract Submission Deadline: 25 March, 2024  
 Selected abstracts/Participants Will Be Notified By: 2 April, 2024  
 
+*Registrations are now closed.*
+
 ## Venue  
+### Workshop (2 May)
+The workshop on 2 May will take place at
 
-Talks, lunches, and workshop will take place at  
+Navet, Uppsala Biomedical Centre (BMC), Entrance C11
+Uppsala University  
+Husargatan 3 
+752 37 Uppsala
+Sweden
 
-Evolutionsbiologiskt centrum (EBC)  
-Uppsala University   
-Norbyvägen 18  
-752 36 Uppsala  
-Sweden  
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8188.785971593141!2d17.6373209329092!3d59.84266054917572!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465fcbe73e7bb4db%3A0xe416eb883a90dd5c!2sSciLifeLab%20Uppsala!5e0!3m2!1sen!2sse!4v1713950223799!5m2!1sen!2sse" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12092.362362312388!2d17.60854873412844!3d59.85234170121815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465fcbec38f7fc99%3A0x7c4274b1ef899498!2sNorbyv%C3%A4gen%2018%2C%20752%2036%20Uppsala%2C%20Sweden!5e0!3m2!1sen!2sfr!4v1706566121528!5m2!1sen!2sfr" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-
+### Pub Dinner (2 May)
 Dinner on 2nd May will take place at  
 
 William's Pub  
@@ -53,6 +57,18 @@ William's Pub
 753 10 Uppsala  
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2003.5398533493592!2d17.625653094198192!3d59.856781703909846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465fcbf164e6c4ad%3A0xd53d8adf9b1961a7!2sWilliams%20Pub!5e0!3m2!1sen!2sfr!4v1706566331847!5m2!1sen!2sfr" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+### Symposium (3 May)
+Talks on 3 May will take place at  
+
+Friessalen, Evolutionsbiologiskt centrum (EBC)  
+Uppsala University   
+Norbyvägen 18  
+752 36 Uppsala  
+Sweden  
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12092.362362312388!2d17.60854873412844!3d59.85234170121815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465fcbec38f7fc99%3A0x7c4274b1ef899498!2sNorbyv%C3%A4gen%2018%2C%20752%2036%20Uppsala%2C%20Sweden!5e0!3m2!1sen!2sfr!4v1706566121528!5m2!1sen!2sfr" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 ### Places to stay
 
@@ -75,10 +91,10 @@ All researchers are welcome to join after the student introductions (i.e. at 10:
 
 | Time               | Event                                                                            |
 |--------------------|----------------------------------------------------------------------------------|
-| 9:00-9:30          | Registration                                                                     |
-| 9:30-10:30         | Introductions by students/early-career researchers                                                                    |
+| 8:45-9:00          | Registration                                                                     |
+| 9:00-10:30         | Introductions by students/early-career researchers                                                                    |
 | 10:30-11:00        | Fika (coffee + snacks)                                                           |
-| 11:00-12:00        | Talk by Ramiro Logares on population genomics of protists using metagenomics     |
+| 11:00-12:00        | Invited Talk by Ramiro Logares      |
 | 12:00-13:00        | Lunch                                                                            |
 | 13:00-14:30        | Mini-workshop on metagenomics led by Jennah Dharamshi                            |
 | 14:30-15:00        | Fika (coffee + snacks)                                                           |
@@ -100,13 +116,14 @@ All researchers are welcome to join after the student introductions (i.e. at 10:
 | 8:50-9:00          | Welcome address                                 |
 | 9:00-9:45          | Plenary talk by Elisabeth Hehenberger           |
 | 9:45-10:15         | Fika (coffee + snacks)                          |
-| 10:15-12:00        | Contributed talks                               |
-| 12:00-13:00        | Lunch                                           |
-| 13:00-15:00        | Contributed talks                               |
-| 15:00-15:30        | Fika (coffee + snacks)                          |
-| 15:30-17:35        | Contributed talks                               |
-| 17:35-17:45        | Short break                                     |
-| 17:45-18:00        | Concluding remarks and best student talks       |
+| 10:15-12:15        | Contributed talks                               |
+| 12:15-13:15        | Lunch                                           |
+| 13:15-15:20        | Contributed talks                               |
+| 15:20-15:25        | Group Photo                                     |
+| 15:25-16:00        | Fika (coffee + snacks)                          |
+| 16:00-17:40        | Contributed talks                               |
+| 17:40-17:50        | Short break                                     |
+| 17:50-18:00        | Concluding remarks and best student talks       |
 
 </details>
 
