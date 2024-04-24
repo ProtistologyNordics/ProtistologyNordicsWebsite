@@ -62,7 +62,7 @@ Please note that we are *not* providing accommodations to the meeting.
 
 ## Program 
 
-<mark>A preliminary meeting programme is available for download [here](Programme_PiN_draft.pdf)!</mark> 
+==A preliminary meeting programme is available for download [here](Programme_PiN_draft.pdf)!==
 
 **2 May 2024**   
 *Workshop for Early Career Researchers, and Pub night*   
