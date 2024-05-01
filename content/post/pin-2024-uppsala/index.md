@@ -28,6 +28,11 @@ The meeting is designed to facilitate vibrant discussions about the latest resea
 
 This meeting stems from the prior Protistology Nordics meetings held in Oslo (2022) and Lund (2023).
 
+## Practical information
+Lunch and coffee and snacks will be provided on both days of the meeting.
+
+In order to reduce plastic waste, we kindly ask all participants to bring their reusable water bottles or cups to fill with water at the venue.
+
 ## Registration and Abstract Submission
 
 **Register [HERE](https://forms.gle/fEGVEzsnXeyvSkaP6)!**
@@ -77,11 +82,11 @@ Nearby hotels and hostels can be found [here](https://www.booking.com/searchresu
 Please note that we are *not* providing accommodations to the meeting.  
 
 ## Program 
+### Final programme
+***The final meeting programme is available for download [HERE](Programme_PiN_final.pdf)!***
 
-***A preliminary meeting programme is available for download [HERE](Programme_PiN_draft.pdf)!***
 
-
-**2 May 2024**   
+### 2 May 2024  
 *Workshop for Early Career Researchers, and Pub night*   
 A workshop for Masters students, PhD students, and postdocs!  
 All researchers are welcome to join after the student introductions (i.e. at 10:30 am)! 
@@ -104,7 +109,7 @@ All researchers are welcome to join after the student introductions (i.e. at 10:
 
 </details>
 
-**3 May 2024**   
+### 3 May 2024 
 *Symposium on Protist Cell Biology, Ecology, and Evolution*
 
 <details open>
