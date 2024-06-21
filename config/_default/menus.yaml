@@ -6,16 +6,16 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Meetings
+  - name: The Committee
+    url: about/
     weight: 20
+  - name: Events
+    weight: 30
     hasChildren: true
-  - parent: Meetings
+  - parent: Events
     name: Past
     url: past/
-  - parent: Meetings
+  - parent: Events
     name: Upcoming
     url: upcoming/
-  - name: Events
-    url: /#events
-    weight: 30
 

@@ -13,7 +13,7 @@ baseURL: 'https://protistologynordics.netlify.app' # Website URL
 cascade:
   # Blog post options
   - _target:
-      path: /post/**
+      path: /events/**
       kind: page
     pager: true
     editable: true
@@ -33,7 +33,7 @@ cascade:
       path: /post/*
       kind: section
     # Change url to /blog/
-    url: /upcoming/
+    url: /past/
     # Set the listing view
     view: date-title-summary
 
