@@ -1,7 +1,9 @@
 ---
 title: Protistology Nordics Meeting 2024
 summary: The 3rd Protistology Nordics Meeting took place in Uppsala on 2-3 May 2024!
-date: 2024-01-29
+date: 2024-01-29  
+lastmod: 2024-09-23  
+weight: 10   
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -15,8 +17,6 @@ tags:
   - Events
 ---
 
-**Preliminary meeting programme available [here](Programme_PiN_draft.pdf)!**
-
 ## About the meeting
 
 **3rd Protistology Nordics Meeting | Uppsala**  
@@ -27,6 +27,8 @@ We are excited to announce that Protistology Nordics 2024 will be held in Uppsal
 The meeting is designed to facilitate vibrant discussions about the latest research in protistology, social interaction, and networking with fellow participants. It is scheduled for May 2nd and 3rd in Uppsala, featuring a workshop on May 2nd at the Evolutionary Biology Centre (EBC), Uppsala, followed by a dinner for all participants.
 
 This meeting stems from the prior Protistology Nordics meetings held in Oslo (2022) and Lund (2023).
+
+<div style="text-align: right"><img src="participants1.jpg" /></div>
 
 ## Practical information
 Lunch and coffee and snacks will be provided on both days of the meeting.
@@ -158,6 +160,25 @@ Ecology of Marine Microorganisms Research group
 Institute of Marine Sciences   
 Spain   
 
+## Best student talk awards
+
+*First prize, Best oral presentation*    
+Allen Williamson   
+Lund University    
+
+*Second prize, Best oral presentation*   
+Clarence Sim  
+University of Oslo  
+
+*First prize, Best flash talk*    
+Ingrid Sætersdal  
+University of Oslo  
+
+*Second prize, Best flash talk*   
+Ana Gomes  
+NORCE  
+
+
 
 ## Organisation
 
@@ -173,3 +194,5 @@ Spain
 The event has been supported by [SciLifeLab Planetary Biology](https://www.scilifelab.se/capabilities/planetary-biology/), and UiO:Life Science.
 
 ![](sponsors.png)  
+
+<p>LAST MODIFIED:{{ .Lastmod.Format "02 Jan 2006" }} </p>
